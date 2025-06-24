@@ -8,28 +8,24 @@
 
 ## 安装步骤
 1. **下载所需文件**
-   - 下载 [Shimeji] 应用程序。
-   - 下载 [MT管理器] 应用程序。
-   - 下载 [GPT桌宠.rar] 压缩文件。
+   - [下载 GPT.rar](https://github.com/Zion0929mu/FloatKian/releases/download/v1.0.0/GPT.rar)
+   - [下载 MTmanager.apk](https://github.com/Zion0929mu/FloatKian/releases/download/v1.0.0/MTmanager.apk) 
+   - [下载 shimeji.apk](https://github.com/Zion0929mu/FloatKian/releases/download/v1.0.0/shimeji.apk)
 
 2. **解压文件**
    - 打开 MT管理器。
    - 找到并选择 [GPT桌宠.rar] 文件，执行解压操作。
 
 3. **访问解压后的文件**
-   - 在 MT管理器中，导航到解压后的文件夹（路径通常包含 `image-shimeji`）。
+   - 在 MT管理器中，导航到解压后的文件夹（`img-shimeji`）。
    - 记录该文件夹的完整文件路径。
 
 4. **导入到 Shimeji**
    - 打开 Shimeji 应用程序。
    - 点击界面上的“+”按钮。
+   - 命名项目。
    - 选择“Import”选项。
-   - 浏览并选择之前记录的 `image-shimeji` 文件夹路径。
-
-## 注意事项
-- 确保所有文件下载完整且未损坏。
-- 记录文件路径时，确认路径准确无误。
-- 如果 Shimeji 无法识别文件，请检查解压路径是否正确。
+   - 浏览并选择之前记录的 `GPT桌宠-imh-shimeji` 文件夹路径。
 
 ## 故障排除
 - **问题**：Shimeji 无法加载桌宠。
@@ -38,7 +34,4 @@
   - **解决方法**：检查 GPT桌宠.rar 文件是否损坏，或重新下载文件。
 
 ## 支持
-如需进一步帮助，请联系相关社区支持或参考 Shimeji 官方文档。
-
----
-*最后更新：2025年6月24日*
+zionguoguo0929@gmail.com
