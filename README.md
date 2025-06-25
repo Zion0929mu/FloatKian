@@ -9,7 +9,7 @@
 ## 安装步骤
 1. **下载所需文件**
    - [下载 GPT.rar](https://github.com/Zion0929mu/FloatKian/releases/download/v1.0.0/GPT.rar)
-   - [下载 MTmanager.apk](https://github.com/Zion0929mu/FloatKian/releases/download/v1.0.0/MTmanager.apk) 
+   - [下载 MTmanager.apk](https://github.com/Zion0929mu/FloatKian/releases/download/v1.0.0/MT.manager.apk) 
    - [下载 shimeji.apk](https://github.com/Zion0929mu/FloatKian/releases/download/v1.0.0/shimeji.apk)
 
 2. **解压文件**
